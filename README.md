@@ -21,7 +21,7 @@ version: 1.0.0
 description: Swagger API client
 dependencies:
   swagger:
-    git: https://github.com/GIT_USER_ID/GIT_REPO_ID.git
+    git: https://github.com/chemaxa/Github-Swagger-Dart-Client.git
       version: 'any'
 ```
 
