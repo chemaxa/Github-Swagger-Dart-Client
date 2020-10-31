@@ -298,10 +298,11 @@
     {
       "name": "swagger",
       "rootUri": "../",
-      "packageUri": "lib/"
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
     }
   ],
-  "generated": "2020-10-31T09:40:50.354412Z",
+  "generated": "2020-10-31T09:55:18.136511Z",
   "generator": "pub",
   "generatorVersion": "2.10.2"
 }
